@@ -1,0 +1,107 @@
+.margin-top {
+  margin-top: 100px;
+}
+.all-button {
+  padding: 8px 30px;
+  border-radius: 50px;
+  background-color: #21b573;
+  color: white;
+  border: 0;
+}
+header {
+  background-color: #f0fff0;
+}
+header .logo {
+  width: 200px;
+}
+li.nav-item {
+  padding: 10px;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 500;
+}
+#carousel {
+  background-color: #f0fff0;
+}
+#carousel p {
+  font-size: 16px;
+  line-height: 36px;
+}
+.carousel-top-pragraph {
+  color: #fd511a;
+}
+#carousel h1 {
+  font-weight: bold;
+  font-size: 48px;
+}
+.carousel-h1 {
+  color: #21b573;
+}
+.succes-card {
+  background-color: #f5faf7;
+  border-radius: 10px;
+}
+
+.succes-card:hover {
+  background-color: white;
+  box-shadow: 0px 0px 17px #bdbdc3;
+}
+.darkblue-h2 {
+  color: #413960;
+  font-weight: bold;
+}
+
+.see-all-link {
+  cursor: pointer;
+  font-weight: bold;
+}
+img.course-card-bottom-img {
+  width: 25px;
+}
+.online-course-card {
+  box-shadow: 0px 0px 17px #bdbdc3;
+  border-radius: 20px;
+}
+h2.testmonial-h2 {
+  font-weight: bold;
+}
+
+img.testmonial-image {
+  width: 125px;
+}
+
+.testmonial-p {
+  padding-left: 25px;
+}
+#teachers {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.single-techer {
+  border-radius: 2000px 2000px 0px 0;
+  box-shadow: 0px 0px 17px #bdbdc3;
+  margin: 25px 0;
+}
+.single-techer:hover {
+  background-color: #f5faf7;
+}
+
+#footer {
+  background-color: #282531;
+}
+.footer-list li {
+  list-style: none;
+  color: white;
+}
+#footer p,
+#footer h5 {
+  color: white;
+}
+#footer p {
+  margin-bottom: 0;
+}
+.footer p,
+li {
+  font-size: 13px;
+}
